@@ -21,7 +21,7 @@ ____
 ### TODO: write github setup instructions
 ____
 
-Now that we have github setup, head to [this repository](https://github.com/Maiq-The-Dude/EmptyDeliMod). Now if you have already setup a Github account, you can just press the button that says "Use template". Fill out the name for your mod, and I reccomend that you keep the mod public.
+Now that we have github setup, head to [this GitHub repository](https://github.com/Maiq-The-Dude/EmptyDeliMod). Now if you have already setup a Github account, you can just press the button that says "Use template". Fill out the name for your mod, and I reccomend that you keep the mod public.
 Now, press the green and white arrow, and press the clipboard. This will copy the URL we require to the clipboard.
 If you did not create a github account, you must click the green and white arrow button and copy the link we require. 
 
