@@ -1,8 +1,4 @@
-## Hello everybody! This video is an up to date and better update to my previous “How to make H3VR mod” video which is now obsolete and very bad.
 
-For this tutorial I will be showing every step required for you to create your very own H3VR mod.
-
-It is recommended that at least a little experience with C# and Unity, however it shouldn’t be strictly required.
 
 In this tutorial we will be:
 - Installing Visual Studio, which is an IDE (Integrated Development Environment) for creating H3VR Mods
