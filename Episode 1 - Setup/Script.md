@@ -11,8 +11,18 @@ In this tutorial we will be:
 ## Part 1: Setup
 ____
 The first step we are gonna take is installing “Visual Studio” which is the program we are going to be using to make our H3VR mod
-____
-### TODO: write installation instructions
+
+First step, download the [Visual Studio Installer (Community edition)](https://visualstudio.microsoft.com/thank-you-downloading-visual-studio/?sku=Community&rel=16&apptype=desktop&tech=dotnetCFV&os=windows) here. Complete the setup intructions, and once the Installer launches, click "Individual Components" (*figure 1.1*)
+
+
+> ![](Figure1.1.png?raw=true)
+> *figure 1.1*
+
+Check ".NET framework 3.5 development tools" (*figure 1.2*), and then press "Install"
+
+> ![](Figure1.2.png?raw=true)
+> *figure 1.2*
+
 ____
 Now that we have Visual Studio installed, let us now setup our project
 ____
